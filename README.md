@@ -1,6 +1,7 @@
-#Shopping
+# Shopping
 
-# 6 screens
+## 6 screens
+
 1) Home screen
 2) Browse Category
 3) View Product
